@@ -23,13 +23,13 @@
 ## 팀원 소개
 
 - 디자인
-  - 손유진
+  - [손유진](https://github.com/ggsl44)
 - 프론트엔드
-  - 윤지윤
-  - 조승완
+  - [윤지윤](https://github.com/jiyoon07)
+  - [조승완](https://github.com/wnynya)
 - 백엔드
-  - 임장원
-  - 조준연
+  - [임장원](https://github.com/magnetogithub)
+  - [조준연](https://github.com/GJYeon)
 
 ## 참고 자료
 
