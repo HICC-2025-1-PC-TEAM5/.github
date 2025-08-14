@@ -34,7 +34,7 @@
 ## 참고 자료
 
 - [기능 명세서](https://docs.google.com/spreadsheets/d/1JmpQQMQ3aFrq8CAzO1uRD9S9yJLCoXjArFCsYIwrcyg/edit?usp=sharing)
-- [API 먕세서](../API.md)
+- [API 명세서](../API.md)
 - [디자인](#)
 - [프론트엔드 리포지토리](#)
 - [백엔드 리포지토리](#)
